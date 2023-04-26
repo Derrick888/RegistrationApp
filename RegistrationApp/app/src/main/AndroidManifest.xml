@@ -10,26 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Lesson2"
+        android:theme="@style/Theme.RegistrationApp"
         tools:targetApi="31">
-        <activity
-            android:name=".session2exercise1"
-            android:exported="false" />
-        <activity
-            android:name=".exercise4"
-            android:exported="false" />
-        <activity
-            android:name=".exercise3"
-            android:exported="false" />
-        <activity
-            android:name=".exercise2b"
-            android:exported="false" />
-        <activity
-            android:name=".exercise2"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
